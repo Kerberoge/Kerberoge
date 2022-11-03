@@ -1,1 +1,1 @@
-I'm currently learning C++ and Python. Looking forward on creating a Discord Bot!
+I'm currently learning C, and I am an absolute beginner. That's all there is to say about me.
